@@ -1,8 +1,29 @@
-# React + Vite
+📌 To-Do List com React e JSON Server
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📖 Descrição
+Este é um aplicativo de lista de tarefas (To-Do List) desenvolvido em React.js para o frontend e JSON Server como API simulada para gerenciamento de tarefas.
 
-Currently, two official plugins are available:
+🚀 Tecnologias Utilizadas
+React.js ⚛️
+JSON Server 📦
+Axios 🔗
+CSS 🎨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎯 Funcionalidades
+✔ Criar tarefas
+✔ Excluir tarefas
+✔ Marcar tarefas como concluídas
+✔ Filtrar tarefas (Todas, A Fazer, Concluídas)
+
+📦 Instalação e Uso
+
+1️⃣ Clone o repositório
+
+2️⃣ Instale as dependências
+npm install
+
+3️⃣ Inicie o JSON Server
+npx json-server --watch db.json
+
+4️⃣ Inicie o projeto React
+npm run dev
