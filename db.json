@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Terminar Relatório",
+      "category": "Profissional",
+      "status": false
+    },
+    {
+      "id": "2",
+      "title": "Ir pra academia",
+      "category": "Pessoal",
+      "status": true
+    },
+    {
+      "id": "3",
+      "title": "Estudar Inglês",
+      "category": "Estudos",
+      "status": true
+    },
+    {
+      "id": "47c9",
+      "title": "testee",
+      "category": "testeeee",
+      "status": false
+    }
+  ]
+}
